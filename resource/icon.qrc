@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/down.png</file>
+        <file>icon/left.png</file>
+        <file>icon/Poly1.png</file>
+        <file>icon/Poly2.png</file>
+        <file>icon/right.png</file>
+        <file>icon/target.png</file>
+        <file>icon/up.png</file>
+        <file>icon/play.png</file>
+        <file>icon/pause.png</file>
+    </qresource>
+</RCC>

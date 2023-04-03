@@ -1,0 +1,16 @@
+tvc5507-1.pro.*
+tvc5507-1.pro.user
+.qmake.stash
+tvc5507-1.pro.*
+Makefile
+Makefile*
+object_script*
+build-*
+lib*
+CMakeLists.txt.user*
+*.orig
+*_*_*.ui
+.vscode
+*.log
+CMakeFiles/
+right_time
